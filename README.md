@@ -43,7 +43,7 @@ This is a graphical user interface (GUI) implementation of the classic **Snake-W
 ### **Running the Game:**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/Snake-Water-Gun-GUI.git
+   git clone https://github.com/sandesh362/snake-water-gun-game.git
    ```
 2. Navigate into the folder:
    ```sh
@@ -55,7 +55,8 @@ This is a graphical user interface (GUI) implementation of the classic **Snake-W
    ```
 
 ## 📷 Screenshots
-_(Add images showcasing the game UI here)_
+![image](https://github.com/user-attachments/assets/f0510672-780a-4898-936b-f7e44aaca9ec)
+
 
 ## 📜 Rules of the Game
 - **Snake (🐍) wins** against **Water (💧)** but loses to **Gun (🔫)**.
@@ -75,5 +76,6 @@ Want to improve the game? Follow these steps:
 This project is **open-source** under the MIT License. Feel free to use and modify it.
 
 ---
-📧 **Contact:** If you have any issues or suggestions, feel free to reach out!
+📧 **Contact:** If you have any issues or suggestions, feel free to reach out! email id-sandeshbramahne.362@gmail.com
+
 
